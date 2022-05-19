@@ -1,0 +1,43 @@
+body {
+  color: blue;
+}
+
+body {
+  color: blue;
+}
+
+.info {
+  background-color: darkblue;
+  border: 2px solid black;
+  color: white;
+}
+
+.danger {
+  background-color: darkred;
+  border: 2px solid black;
+  color: white;
+}
+
+.warning {
+  background-color: yellow;
+  border: 2px solid black;
+  color: white;
+}
+
+.warning2, .danger2, .info2 {
+  border: 2px solid;
+  color: black;
+  padding: 10px;
+}
+
+.info2 {
+  border-color: darkblue;
+}
+
+.danger2 {
+  border-color: darkred;
+}
+
+.warning2 {
+  border-color: yellow;
+}/*# sourceMappingURL=styles.css.map */
